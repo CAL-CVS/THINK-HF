@@ -1,0 +1,95 @@
+medcodeid,term,cleansedreadcode,snomedctconceptid,echo
+"169414012","transoesophageal echocardiography","7P0H100","105376000",1
+"262554010","isotope dynamic heart scan","5744.00","169163002",1
+"262687015","echocardiogram normal","585R.00","169240004",1
+"262688013","echocardiogram abnormal","5853100","169241000",1
+"317791013","[d]echocardiogram abnormal","R132000","169241000",1
+"374013010","left ventricular ejection fraction","33BB.00","250908004",1
+"375976015","transthoracic echocardiography","7P0H000","433236007",1
+"375978019","intravascular echocardiography","7P0H200","252420009",1
+"375980013","epicardial echocardiography","7P0H300","433232009",1
+"375981012","contrast echocardiography","7P0H600","433231002",1
+"1229672017","echocardiogram","5853.11","40701008",1
+"1484826014","referral for echocardiography","8HQ7.00","390791001",1
+"1773177014","transoesophageal echocardiographic monitoring","8A58.00","397986006",1
+"1778796017","adult echocardiography procedure report","9Ee0800","399345000",1
+"1780207011","echocardiogram requested","33BD.00","401000009",1
+"2159197017","echocardiogram shows left ventricular systolic dysfunction","585f.00","407596008",1
+"2159198010","echocardiogram shows left ventricular diastolic dysfunction","585g.00","407597004",1
+"2159944012","echocardiogram equivocal","5C20.00","408380008",1
+"2160116017","echocardiogram declined","56F1.00","408566000",1
+"2534182016","echocardiogram shows normal left ventricular function","585k.00","414072005",1
+"2675430014","transluminal intracardiac echocardiography","7935500","425789000",1
+"2819917014","monitoring of cardiac output using echocardiography","8A54400","442397008",1
+"3524925012","mri of heart with contrast","","736793003",1
+"3528503015","mri of heart under stress","","737593009",1
+"85331000006111","us heart scan","5853.00","40701008",1
+"85341000006118","u-s heart scan nos","5853z00","40701008",1
+"90241000006118","transoesophageal echocardiography","7935200","105376000",1
+"364271000000112","other specified diagnostic echocardiography","7P0Hy00","40701008",1
+"364291000000111","diagnostic echocardiography nos","7P0Hz00","40701008",1
+"635771000006113","echocardiogram ejection fraction","","635771000006109",1
+"635781000006111","echocardiogram normal","5853000","169240004",1
+"635791000006114","echocardiogram shows lvh","","635791000006105",1
+"635801000006110","echocardiography - poor lv function","","635801000006106",1
+"970851000006119","echocardiogram shows normal left ventricular function","","970851000006103",1
+"1009121000006112","dobutamine stress echocardiogram","","1009121000006108",1
+"1559341000006112","exercise stress echocardiography","7P0H400","433233004",1
+"1647701000000118","heart failure with normal ejection fraction","G583.00","446221000",1
+"1661371000000112","hfnef - heart failure with normal ejection fraction","G583.11","446221000",1
+"1769091000006112","fast track heart failure referral for transthoracic two dimensional echocardiogram","8H7o000","760361000000100",1
+"1841961000006111","echocardiogram report received","","1841961000006107",1
+"2227501000000110","heart failure with preserved ejection fraction","G583.12","446221000",1
+"2230441000000112","echocardiography report received","9EV7.00","862551000000108",1
+"2630101000006110","echocardiography for detecting cardiac output","","8151003",1
+"3149331000006116","echocardiography for determining mitral and tricuspid valve motion","","40357002",1
+"3155211000006117","echocardiography","","40701008",1
+"3155241000006118","echocardiographic procedure","","40701008",1
+"3297331000006116","echocardiography for determining interventricular septal thickness","","49276007",1
+"3651911000006111","cardiac ejection fraction","","70822001",1
+"3651921000006115","cardiac ejection fraction, function","","70822001",1
+"3851601000006112","echocardiography for determining mitral valve motion","","83061004",1
+"4118091000006118","transesophageal echocardiography","","105376000",1
+"4118111000006110","toe - transoesophageal echocardiography","","105376000",1
+"4118121000006119","toe - transesophageal echocardiography","","105376000",1
+"4118131000006116","transesophageal echocardiogram","","105376000",1
+"4118141000006114","transoesophageal echocardiogram","","105376000",1
+"5164251000006118","mri of heart","","241620005",1
+"5292721000006113","lvef - left ventricular ejection fraction","","250908004",1
+"5293291000006114","right ventricular ejection fraction","","250939002",1
+"5293301000006110","rvef - right ventricular ejection fraction","","250939002",1
+"5315831000006118","intracavitary echocardiography","","252421008",1
+"6595731000006111","transesophageal echocardiographic monitoring","","397986006",1
+"6938801000006116","mri perfusion study of heart","","419535008",1
+"7134731000006110","magnetic resonance imaging (mri) of perfusion of heart under stress","","431299007",1
+"7134751000006115","mri of perfusion of heart under stress","","431299007",1
+"7185351000006114","exercise stress echocardiogram with contrast","","433862009",1
+"7189031000006115","transthoracic three dimensional echocardiogram of heart","","434158009",1
+"7220401000006119","echocardiography test interpretation","","439238004",1
+"7228721000006117","tissue doppler echocardiography","","439858009",1
+"7245601000006111","transthoracic echocardiography test interpretation","","441090001",1
+"7247071000006117","stress echocardiography test interpretation","","441199002",1
+"7321121000006119","heart failure with preserved ejection fraction","","446221000",1
+"7484241000006117","transoesophageal echocardiography for congenital heart disease","","473197003",1
+"7487431000006116","transthoracic echocardiography for congenital heart disease","","473381003",1
+"7573171000006116","heart failure with reduced ejection fraction","","703272007",1
+"7573181000006118","heart failure with reduced ejection fraction due to coronary artery disease","","703273002",1
+"7573191000006115","heart failure with reduced ejection fraction due to myocarditis","","703274008",1
+"7573201000006117","heart failure with reduced ejection fraction due to cardiomyopathy","","703275009",1
+"7573211000006119","heart failure with reduced ejection fraction due to heart valve disease","","703276005",1
+"7574191000006118","stress echocardiography using dobutamine","","703338002",1
+"7689421000006113","doppler transoesophageal echocardiography","","711507002",1
+"7787651000006117","fice - focused intensive care echocardiography","","719508009",1
+"7787661000006115","focused transthoracic echocardiography in intensive care","","719508009",1
+"8299951000006119","fluoroscopy guided percutaneous transluminal repair of mitral valve leaflet using transoesophageal echocardiography","","865051000000105",1
+"8337611000006116","mri of heart for myocardial viability assessment","","931021000000101",1
+"11878471000006115","mri stress study of heart","","431609005",1
+"13652021000006113","saline contrast echocardiogram","","785775005",1
+"13910671000006110","heart failure with mid range ejection fraction","","788950000",1
+"13925061000006112","stress echocardiography","","816996009",1
+"13925071000006117","echocardiography using pharmacologic stress agent","","816997000",1
+"13931491000006111","velocity vector imaging echocardiography","","830078000",1
+"13954181000006116","left ventricular ejection fraction decreased","","863932003",1
+"14742661000006115","left ventricular failure with normal ejection fraction due to valvular heart disease","","1204200007",1
+"14742711000006114","left ventricular failure with normal ejection fraction due to coronary artery disease","","1204203009",1
+"14742751000006110","left ventricular failure with normal ejection fraction due to cardiomyopathy","","1204206001",1

@@ -1,0 +1,93 @@
+medcodeid,term,cleansedreadcode,snomedctconceptid,spec_ref
+"216246012","referral to heart failure clinic","8HTL.00","134440006",1
+"283601019","cardiological referral","8H44.00","183519002",1
+"283870016","cardiology d.v. requested","8HK4.00","183712009",1
+"283928010","cardiology domiciliary visit done","8HL4.00","183741000",1
+"284113015","private referral to cardiologist","8HVJ.00","183899006",1
+"285221011","seen in cardiac clinic","9N1P.00","185228002",1
+"285222016","seen in cardiology clinic","9N1P.11","185228002",1
+"285879017","cardiovascular clinic","9Oa..00","185920002",1
+"447905012","under care of cardiologist","9NNf300","305472002",1
+"451824012","referral to cardiologist","","308471005",1
+"459258013","attending cardiology clinic","9NM2.00","314860001",1
+"1484917012","heart failure follow-up","8HBE.00","390884006",1
+"1484955019","did not attend cardiac clinic","9N4J.00","390923003",1
+"1488309017","cardiology","9b9C.00","394579002",1
+"2548316014","seen by community heart failure nurse","9N2p.00","417359009",1
+"2549243014","seen in heart failure clinic","9N0k.00","416717003",1
+"2549697018","referral to heart failure nurse","8HHb.00","417146007",1
+"2645623019","heart failure education","679X.00","423475008",1
+"2695246012","seen in cardiothoracic surgery clinic","9N0q.00","428120007",1
+"2882643017","cardiopulmonary exercise test","7P1B400","447346005",1
+"294531000000117","referral to cardiology special interest general practitioner","8H4R.00","196311000000107",1
+"303361000000111","referred by heart failure nurse specialist","9N6T.00","200171000000102",1
+"303391000000117","referred by cardiologist","9N6V.00","200181000000100",1
+"303411000000117","referred by cardiology outpatients department","9N6W.00","200191000000103",1
+"303441000000116","discharge from practice nurse heart failure clinic","8Hg8.00","200201000000101",1
+"303861000000118","did not attend practice nurse heart failure clinic","9N4s.00","200361000000106",1
+"308041000000118","referral to heart failure exercise programme","8HHz.00","704095000",1
+"311561000000117","referred to heart failure education group","8Hk0.00","203791000000106",1
+"317051000000118","in-house cardiology first appointment","9NJK.00","206171000000100",1
+"317081000000112","in-house cardiology follow-up appointment","9NJL.00","206181000000103",1
+"317111000000116","discharge from in-house cardiology","9NJM.00","839721000000107",1
+"407181000000116","did not attend heart failure clinic","9N4w.00","248571000000104",1
+"472651000000114","seen by private cardiologist","9N2x.00","275951000000108",1
+"904831000006114","cardiology referral","","904831000006105",1
+"936671000006113","cardiovascular education","8CAT.00","363001008",1
+"1539481000006114","heart failure monitoring - specialist clinical needs","","1539481000006105",1
+"1628541000006118","did not attend cardiology special interest general practitioner clinic","9Ni8.00","295491000000102",1
+"1628671000006113","seen by general practitioner with special interest in cardiology","9Nl1.00","300541000000106",1
+"1693911000000115","referral to heart failure education group declined","8IE0.00","763641000000102",1
+"1705341000000110","discharge from heart failure nurse service","8HgD.00","765661000000102",1
+"1734081000000112","referral to heart failure exercise programme declined","8IE1.00","704097008",1
+"1734161000000119","referral to heart failure exercise programme not indicated","8IB8.00","704096004",1
+"1757251000000117","referral to community cardiology service","8Hkt.00","785761000000105",1
+"1774611000006117","referral to community cardiology clinic","","1774611000006101",1
+"1775311000006113","referred to cardiac service","","1775311000006109",1
+"1776131000006110","staff group: nursing - cardiac nursing/liaison","","1776131000006106",1
+"1822161000006116","heart failure pathway protocol not followed","","1822161000006100",1
+"1831941000006113","physiotherapy treatment modality: cardiovascular exercise","","1831941000006109",1
+"2193891000000115","referral to cardiology multidisciplinary team","8H44000","845851000000106",1
+"2205951000000117","heart failure clinical pathway","8CMW800","851521000000102",1
+"2247701000000117","on community cardiac care pathway","8CMWB00","869631000000107",1
+"2256811000000114","referral to rapid access heart failure clinic","8HTL000","873881000000100",1
+"2327021000000115","referral to cardiac device service","8T0T.00","904851000000105",1
+"2533241000006115","cardiac catheterisation education","","2153008",1
+"2778651000006114","cardiologist","","17561000",1
+"3245121000006116","electrocardiogram with exercise test","","46136006",1
+"4724221000006119","referral to cardiology service","","183519002",1
+"4726001000006112","cardiology domiciliary visit requested","","183712009",1
+"5191871000006113","cardiological test categorised by action status","","243806009",1
+"5295431000006113","cardiac conduction pathway","","251099007",1
+"5943461000006111","seen by cardiologist","","305662006",1
+"5945351000006115","seen by cardiology service","","305802005",1
+"5946461000006115","seen by cardiothoracic surgery service","","305886005",1
+"5947931000006118","referral by cardiologist","","305958003",1
+"5947941000006111","referral from cardiologist","","305958003",1
+"5952671000006110","referral to cardiothoracic surgery service","","306182003",1
+"5952701000006111","referral to cardiac surgery service","","306185001",1
+"5955551000006114","seen by cardiac surgery service","","306381000",1
+"5956011000006112","discharge by cardiologist","","306418003",1
+"5958041000006112","discharge from cardiology service","","306574008",1
+"5958991000006116","discharge from cardiothoracic surgery service","","306650000",1
+"5959011000006118","discharge from cardiac surgery service","","306652008",1
+"5994091000006117","cardiology department","","309915006",1
+"5995641000006119","cardiology service","","310036006",1
+"5995651000006117","cardiological service","","310036006",1
+"5996891000006116","cardiothoracic surgery service","","310140004",1
+"5996911000006119","cardiac surgery service","","310142007",1
+"6442221000006110","cardiac care education","","385716007",1
+"6516351000006113","dna - did not attend cardiac clinic","","390923003",1
+"7108671000006119","cardiovascular disease health education","","429785003",1
+"7567141000006110","cardiology clinic","","702830005",1
+"7629671000006118","cardiac ultrasound service","","708172000",1
+"7812271000006111","referral to cardiologist refused","","721111001",1
+"7812281000006114","referral to cardiologist declined by patient","","721111001",1
+"7826281000006115","cardiology hospital progress note","","722014005",1
+"8061871000006111","in-house cardiology","","201911000000101",1
+"8302591000006117","community cardiac care pathway","","869731000000102",1
+"8313221000006113","cardiothoracic transplantation service","","892771000000109",1
+"8313431000006110","cardiology service","","893061000000109",1
+"12624751000006119","referral to cardiothoracic transplantation service","","1109671000000103",1
+"14461281000006119","electrocardiogram with exercise test using bruce protocol","","1156362006",1
+"14467671000006113","cardiac pacemaker clinic","","1157116004",1

@@ -1,0 +1,15 @@
+medcodeid,term,cleansedreadcode,snomedctconceptid,bnp
+"1484949012","brain natriuretic peptide level","44AF.00","1012131000000106",1
+"2159826017","plasma pro-brain natriuretic peptide level","44AN.00","1028291000000108",1
+"2159827014","serum pro-bnp peptide level","44AP.00","1026401000000103",1
+"2533372019","n terminal pro-brain natriuretic peptide level","4Q2B.00","1031031000000109",1
+"1822691000006118","test request : n terminal pro-brain natriuretic peptide level","4Q2B.00","1822691000006102",1
+"6516251000006119","brain natriuretic peptide level","","390917008",1
+"6516261000006117","brain natriuretic peptide measurement","","390917008",1
+"6739001000006110","brain natriuretic peptide","","407059007",1
+"6739031000006119","pro brain natriuretic peptide","","407060002",1
+"6739041000006112","probnp - pro-b-type natriuretic peptide","","407060002",1
+"6759361000006114","serum pro-brain natriuretic peptide level","","408259000",1
+"6864861000006110","n-bnp - n-terminal pro brain natriuretic peptide","","414798009",1
+"6864871000006115","nt-probnp - n-terminal pro-b-type natriuretic peptide","","414798009",1
+"8409261000006112","plasma pro-bnp level","","1028291000000108",1
