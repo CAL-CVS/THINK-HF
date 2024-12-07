@@ -1,0 +1,38 @@
+medcode,readterm,readcode,echo
+"11351","echocardiogram shows left ventricular diastolic dysfunction","585g.00",1
+"12314","echocardiogram shows normal left ventricular function","585k.00",1
+"105649","monitoring of cardiac output using echocardiography","8A54400",1
+"105341","contrast echocardiography","7P0H600",1
+"26886","echocardiogram requested","33BD.00",1
+"27851","u-s heart scan nos","5853z00",1
+"1432","echocardiogram normal","5853000",1
+"27131","isotope dynamic heart scan","5744.00",1
+"60301","fetal echocardiography","7P0H500",1
+"39134","stress echocardiography","7P0H400",1
+"3919","transoesophageal echocardiography","7935200",1
+"23268","u-s heart scan","5853.00",1
+"90493","diagnostic echocardiography nos","7P0Hz00",1
+"26449","diagnostic echocardiography","7P0H.00",1
+"106377","echocardiography report received","9EV7.00",1
+"11683","referral for echocardiography","8HQ7.00",1
+"94626","epicardial echocardiography","7P0H300",1
+"101184","adult echocardiography procedure report","9Ee0800",1
+"101137","hfnef - heart failure with normal ejection fraction","G583.11",1
+"1271","echocardiogram","5853.11",1
+"11284","echocardiogram shows left ventricular systolic dysfunction","585f.00",1
+"99841","other specified diagnostic echocardiography","7P0Hy00",1
+"18508","echocardiogram normal","585R.00",1
+"102428","fast track hf referral for transthoracic 2d echocardiogram","8H7o000",1
+"105899","transoesophageal echocardiographic monitoring","8A58.00",1
+"116036","intravascular echocardiography","7P0H200",1
+"14000","echocardiogram declined","56F1.00",1
+"85952","transoesophageal echocardiography","7P0H100",1
+"101138","heart failure with normal ejection fraction","G583.00",1
+"89353","transluminal intracardiac echocardiography","7935500",1
+"30917","echocardiogram equivocal","5C20.00",1
+"106897","heart failure with preserved ejection fraction","G583.12",1
+"26445","transthoracic echocardiography","7P0H000",1
+"115338","heart failure with reduced ejection fraction","G585.00",1
+"5245","echocardiogram abnormal","5853100",1
+"10317","[d]echocardiogram abnormal","R132000",1
+"30918","left ventricular ejection fraction","33BB.00",1
